@@ -1,0 +1,7 @@
+streamlit
+matplotlib
+numpy
+Pillow
+Flask==2.1.1
+
+

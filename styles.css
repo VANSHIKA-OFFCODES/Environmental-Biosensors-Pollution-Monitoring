@@ -1,0 +1,19 @@
+body {
+    background: linear-gradient(to right, #c6ffdd, #fbd786, #f7797d);
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+  h1 {
+    color: #2c3e50;
+    text-align: center;
+    font-size: 3rem;
+    padding-top: 1rem;
+  }
+  
+  footer {
+    text-align: center;
+    color: gray;
+    font-size: 0.8rem;
+    margin-top: 2rem;
+  }
+  
